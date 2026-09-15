@@ -77,7 +77,7 @@ export const couple = {
   logoImage: logoImg,
   invocation: "॥ श्री गणेशाय नमः ॥",
   welcome:
-    "With the blessings of Late Shri Ram Prakash Sharma & Smt Pushvindera Rani, We invite you to join us as two hearts, two families and a thousand little moments become one",
+    "With the blessings of Late Shri Ram Parkash Sharma & Smt Pushvindera Rani, We invite you to join us as two hearts, two families and a thousand little moments become one",
 };
 
 export const themes: Record<ThemeKey, { label: string; color: string; soft: string; ink: string }> = {
