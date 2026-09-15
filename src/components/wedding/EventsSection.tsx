@@ -13,7 +13,7 @@ export function EventsSection() {
       <SectionHeading
         eyebrow="Wedding Celebrations"
         title="Wedding Events"
-        subtitle="Tap any celebration for timings, dress code, directions and a calendar reminder."
+        subtitle="Tap any celebration for timings, dress code, directions and a calendar reminder"
       />
 
       <div className="mx-auto grid max-w-5xl gap-6 sm:grid-cols-2 lg:grid-cols-3">
