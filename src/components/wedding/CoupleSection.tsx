@@ -18,7 +18,7 @@ export function CoupleSection() {
       <SectionHeading
         eyebrow="The Two of Us"
         title={`${couple.groom.name} & ${couple.bride.name}`}
-        subtitle="Different origins, a shared horizon, and a lifetime left to wander side by side."
+        subtitle="Different origins, a shared horizon, and a lifetime left to wander side by side"
       />
 
       <div className="mx-auto max-w-4xl">
