@@ -60,14 +60,14 @@ export const couple = {
     fullName: "Akansha Wankhade",
     parents: "Daughter of Mr. Vilas Wankhade & Mrs. Minakshi Wankhade",
     image: brideImg,
-    bio: "Carrying the warmth of Maharashtra, now coding the future for ISRO's skies,  She spins grace through the rhythm of dance and breathes life onto canvas with vibrant strokes of painting.",
+    bio: "Carrying the warmth of Maharashtra, now coding the future for ISRO's skies,  She spins grace through the rhythm of dance and breathes life onto canvas with vibrant strokes of painting",
   },
   groom: {
     name: "Mohit",
     fullName: "Mohit Sharma",
     parents: "Son of Mr. Rajinder Kumar & Late Mrs. Seema Sharma",
     image: groomImg,
-    bio: "Rooted in the soil of Punjab, A Scientist reaching for the stars, He maps the infinite skies while weaving melodies, captures fleeting moments through a lens, and wanders the world with a curious heart.",
+    bio: "Rooted in the soil of Punjab, A Scientist reaching for the stars, He maps the infinite skies while weaving melodies, captures fleeting moments through a lens, and wanders the world with a curious heart",
   },
   hashtag: "#MohitWedsAkansha",
   city: "Ludhiana, Punjab",
@@ -77,7 +77,7 @@ export const couple = {
   logoImage: logoImg,
   invocation: "॥ श्री गणेशाय नमः ॥",
   welcome:
-    "With the blessings of Late Shri Ram Prakash Sharma & Smt Pushvindera Rani, We invite you to join us as two hearts, two families and a thousand little moments become one.",
+    "With the blessings of Late Shri Ram Prakash Sharma & Smt Pushvindera Rani, We invite you to join us as two hearts, two families and a thousand little moments become one",
 };
 
 export const themes: Record<ThemeKey, { label: string; color: string; soft: string; ink: string }> = {
@@ -108,7 +108,7 @@ export const events: WeddingEvent[] = [
     mapsLink: "https://maps.app.goo.gl/jQ3kYXVQoQn5Yy3Z8?g_st=ic",
     dressCode: "Marigold Yellow",
     description:
-      "Turmeric, laughter and joyful celebrations starting from 11:00 AM onwards.",
+      "Turmeric, laughter and joyful celebrations starting from 11:00 AM onwards",
     theme: "peach",
     image: haldiImg,
   },
@@ -126,7 +126,7 @@ export const events: WeddingEvent[] = [
     mapsLink: "https://maps.app.goo.gl/jQ3kYXVQoQn5Yy3Z8?g_st=ic",
     dressCode: "Traditional Punjabi ",
     description:
-      "A night of Jaago, music, live dhol and dancing starting from 6:00 PM onwards.",
+      "A night of Jaago, music, live dhol and dancing starting from 6:00 PM onwards",
     theme: "powder",
     image: sangeetImg,
   },
@@ -144,7 +144,7 @@ export const events: WeddingEvent[] = [
     mapsLink: "https://maps.app.goo.gl/Qbd3A9LUKMCBLbGk9?g_st=ic",
     dressCode: "Dress to impress and help us make our day picture perfect!",
     description:
-      "The grand wedding celebrations at By The Falls Mansion, Ludhiana.",
+      "The grand wedding celebrations at By The Falls Mansion, Ludhiana",
     theme: "blush",
     image: weddingImg,
   },
@@ -168,7 +168,7 @@ export const blessings: Blessing[] = [
     names: "Vilas & Minakshi Wankhade",
     relation: "Parents of the bride",
     message:
-      "She was the little girl who dreamed beyond the clouds, and today she steps into a beautiful new chapter. May Akansha's home always be blessed with warmth, laughter, and boundless joy. We welcome Mohit with open hearts into our family—a man whose warmth and partnership make him the true keeper of her happiness.",
+      "She was the little girl who dreamed beyond the clouds, and today she steps into a beautiful new chapter. May Akansha's home always be blessed with warmth, laughter, and boundless joy. We welcome Mohit with open hearts into our family—a man whose warmth and partnership make him the true keeper of her happiness",
   },
   {
     id: "b3",
@@ -176,7 +176,7 @@ export const blessings: Blessing[] = [
     names: "Rajinder Kumar Sharma",
     relation: "Father of the groom",
     message:
-      "We are so overjoyed to officially welcome you into our family, Akansha. Watching Mohit love you has been a true joy, and we can’t wait to share in the magic of your wedding day as you officially become a daughter of our hearts.",
+      "We are so overjoyed to officially welcome you into our family, Akansha. Watching Mohit love you has been a true joy, and we can’t wait to share in the magic of your wedding day as you officially become a daughter of our hearts",
   },
 ];
 
