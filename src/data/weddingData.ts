@@ -71,7 +71,7 @@ export const couple = {
   },
   hashtag: "#MohitWedsAkansha",
   city: "Ludhiana, Punjab",
-  weddingDate: "2026-11-21T19:00:00+05:30",
+  weddingDate: "2026-11-21T00:00:00+05:30",
   displayDate: "Saturday, 21 November 2026",
   heroImage: heroImg,
   logoImage: logoImg,
